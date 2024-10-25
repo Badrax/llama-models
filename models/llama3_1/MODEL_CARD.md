@@ -5,6 +5,7 @@ The Meta Llama 3.1 collection of multilingual large language models (LLMs) is a 
 **Model developer:** Meta
 
 **Model Architecture:** Llama 3.1 is an auto-regressive language model that uses an optimized transformer architecture. The tuned versions use supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF) to align with human preferences for helpfulness and safety.
+**Mod Geospatial:**          Informative article based network works for modalities
 
 
 <table>
